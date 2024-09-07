@@ -16,7 +16,7 @@ Astronomy Picture of the Day (APOD) is a React web application that fetches and 
 
 1. Clone the repository
 2. Install the dependencies
-3. Obtain your API key from NASA here, and add it to a .env file: REACT_APP_NASA_API_KEY=your_api_key_here
+3. Obtain your API key from NASA here, and add it to a .env file: VITE_NASA_API_KEY=your_api_key_here
 4. Start the development server: npm start
 6. Open your browser and go to: http://localhost:3000
 
